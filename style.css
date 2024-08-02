@@ -1,6 +1,40 @@
 body{
     background-color: beige;
 }
-input :checked ~ body{
-    visibility: hidden;
+div.home{
+    width:100%;
+    height: 130px;
+    padding-top: 30px;
+    padding-left: 20px;  
+    background-color:rgba(124, 99, 16, 0.397);
+    margin: -8px;
+    border: 4px solid black;
+
+}
+div a img{
+    border-radius: 50%;
+}
+div h1{
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+    margin: -100px auto;
+    width: 500px;
+}
+div.ghichu{
+    width: 1000px;
+    height: 180px;
+    background-color:rgb(245, 67, 67) ;
+    border: 5px solid black;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin: 15px auto;
+}
+div p{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cornflowerblue;
+}
+div.taiday{
+    color: green;
 }

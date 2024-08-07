@@ -18,7 +18,7 @@ div{
 div.home{
     
     width:100%;
-    height: 130px;
+    height: 170px;
     padding-top: 30px;
     padding-left: 20px;  
     background-color:rgba(124, 99, 16, 0.397);
@@ -39,7 +39,7 @@ div h1{
 div.ghichu{
     
     width: 1000px;
-    height: 180px;
+    height: 215px;
     background-color:rgb(245, 67, 67) ;
     border: 5px solid black;
     padding-top: 10px;
